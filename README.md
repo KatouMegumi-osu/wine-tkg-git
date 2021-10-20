@@ -1,3 +1,9 @@
+welp, wine tkg confugured for osu! low latency audio with pipewire-pulse.  
+
+credits: gonx, hwsmm, openglfreak for patches.  
+
+ThePooN for being a martyr of osu! on Linux. 
+
 # Wine to rule them all !
 
 ## PLEASE DO NOT REPORT BUGS ENCOUNTERED WITH THIS AT WINEHQ OR VALVESOFTWARE, REPORT HERE INSTEAD !
